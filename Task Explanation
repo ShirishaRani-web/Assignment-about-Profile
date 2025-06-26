@@ -1,0 +1,14 @@
+In this assignment, I built a responsive personal portfolio webpage using three main technologies: HTML, CSS, and JavaScript.
+
+HTML was used to structure the webpage, which includes sections like the navigation bar, home (hero) section, and about section. It also includes links, buttons, a profile image, and social media icons.
+CSS was used to style the page with custom colors, fonts, shapes (blobs), and responsive layout for different screen sizes. I also used CSS Flexbox for layout design and added hover effects for buttons and links to enhance the user interface.
+JavaScript was used to make the page interactive. I implemented a theme toggle feature that switches between light and dark mode, with the icon changing from moon to sun. JavaScript was also used to handle section switching between the Home and About sections without reloading the page.
+
+Font Awesome was used to add icons for social media, email, and the snowflake logo.
+
+🔑 Key Highlights:
+Theme Toggle (Light/Dark mode switch with icon change)
+Responsive Design (Mobile-friendly layout using media queries)
+Section Navigation with JavaScript (Home/About switch)
+Profile image styling with custom shape background
+Used Font Awesome icons for professional look
